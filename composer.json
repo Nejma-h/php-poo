@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/php-poo",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "nejma-h",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\":"src"
+    }
+  },
+  "require": {
+  }
+}
